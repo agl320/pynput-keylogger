@@ -5,8 +5,8 @@ from email import encoders
 import smtplib
 from pynput.keyboard import Listener, Key
 
-E_USERNAME = 'miguelbrotato@gmail.com'
-E_PASSWORD = 'theywilldie'
+E_USERNAME = 'N/A'
+E_PASSWORD = 'N/A'
 
 ctr = 0
 products = []
